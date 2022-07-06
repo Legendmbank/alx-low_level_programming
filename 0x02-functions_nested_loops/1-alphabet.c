@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 {
 
-	char c;
+	char c, i;
 
 
 
