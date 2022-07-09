@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 {
 
-	char c, i;
+	char c;
 
 
 	for (c = 'a'; c <= 'z'; c++)
