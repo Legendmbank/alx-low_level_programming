@@ -11,7 +11,6 @@ void print_alphabet(void)
 {
 
 	char c, i;
-:wq
 
 
 	for (c = 'a'; c <= 'z'; c++)
