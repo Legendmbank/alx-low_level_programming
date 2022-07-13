@@ -7,7 +7,7 @@
  * main - print out different numbers and check
  * if it is positive or negative
  *
- * return: always 0
+ * Return: Always 0
  */
 
 
