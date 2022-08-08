@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * print_diagonal - check the digits n
  * @n: the number of slash to be printed
  * Return: void
  */
+
 void print_diagonal(int n)
 {
 	int i = 0, ii;
